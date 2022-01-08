@@ -3,3 +3,5 @@
 # 1.4 CSS Modules (06:54)
 
 # 1.5 Styles JSX (06:56)
+
+# 2.0 Patterns (06:45)
