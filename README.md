@@ -5,3 +5,5 @@
 # 1.5 Styles JSX (06:56)
 
 # 2.0 Patterns (06:45)
+
+# 2.2 Redirect and Rewrite (13:31)
