@@ -7,3 +7,5 @@
 # 2.0 Patterns (06:45)
 
 # 2.2 Redirect and Rewrite (13:31)
+
+# 2.3 Server Side Rendering (11:24)
